@@ -6,5 +6,5 @@ Used Libraries:
 3.Scikit Learn
 4.Matplotlib and Seaborn
 5.Standard Scaler
-Machine Learning Concept Used: Linear Regression, Evaluation Metrics
+and Machine Learning Concept Used: Linear Regression, Evaluation Metrics
 
