@@ -1,10 +1,16 @@
 # Life-Expectancy-Prediction-Project
-Life Expectancy Prediction Model made using Python
-Used Libraries:
-1.Numpy
-2.Pandas
-3.Scikit Learn
-4.Matplotlib and Seaborn
-5.Standard Scaler
-and Machine Learning Concept Used: Linear Regression, Evaluation Metrics
+This project builds a Life Expectancy Prediction Model using Python and machine learning. The model predicts life expectancy based on various features like GDP, healthcare expenditure, education, and more.
+
+Technologies and Libraries Used
+Python: Core programming language for implementation.
+NumPy: Efficient numerical computations.
+Pandas: Data manipulation and preprocessing.
+Scikit-learn:
+Linear Regression: Model training and prediction.
+Evaluation Metrics: Mean Squared Error (MSE) and R² Score.
+Matplotlib & Seaborn: Data visualization and insights.
+StandardScaler: Feature scaling for better model performance.
+Machine Learning Concepts Used
+Regression: Predicting continuous values.
+Evaluation Metrics: MSE and R² Score for performance measurement.
 
